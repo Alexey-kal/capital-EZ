@@ -251,7 +251,7 @@ export const translations = {
     "address.intro":
       "EZ Financing is operated by 9552-8212 Québec Inc. and provides one accountable point of contact throughout the financing review.",
     "address.panelLabel": "BUSINESS AND CORRESPONDENCE ADDRESS",
-    "address.line1": "1140 Rue Wellington, Unit 824",
+    "address.line1": "1140 Rue Wellington",
     "address.line2": "Montréal, Québec H3C 1V8",
     "address.line3": "Canada",
     "address.meetings":
@@ -803,7 +803,7 @@ export const translations = {
     "address.intro":
       "EZ Financing est exploité par 9552-8212 Québec Inc. et offre un point de contact responsable tout au long de l'analyse du financement.",
     "address.panelLabel": "ADRESSE D'AFFAIRES ET DE CORRESPONDANCE",
-    "address.line1": "1140 Rue Wellington, Unit 824",
+    "address.line1": "1140 rue Wellington",
     "address.line2": "Montréal, Québec H3C 1V8",
     "address.line3": "Canada",
     "address.meetings":

@@ -303,7 +303,7 @@ export const specTranslations = {
       "Québec Enterprise Register - search NEQ 1181437121",
     "legal.registration": "Registration date: October 27, 2025",
     "legal.address":
-      "1140 Rue Wellington, Unit 824, Montréal, Québec H3C 1V8, Canada.",
+      "1140 Rue Wellington, Montréal, Québec H3C 1V8, Canada.",
     "reviews.title": "Client Reviews",
     "reviews.intro":
       "Read verified client experiences across EZ Financing, EZ Payments and EZ Outbound. Reviews are submitted by clients, verified privately where possible and published only after neutral moderation.",
@@ -665,7 +665,7 @@ export const specTranslations = {
       "Registraire des entreprises du Québec - recherchez le NEQ 1181437121",
     "legal.registration": "Date d'immatriculation : 27 octobre 2025",
     "legal.address":
-      "1140, rue Wellington, unité 824, Montréal (Québec) H3C 1V8, Canada.",
+      "1140 rue Wellington, Montréal, Québec H3C 1V8, Canada.",
     "reviews.title": "Avis des clients",
     "reviews.intro":
       "Consultez des expériences de clients d'EZ Financing, d'EZ Payments et d'EZ Outbound. Les avis sont soumis par les clients, vérifiés en privé lorsque possible et publiés uniquement après une modération neutre.",

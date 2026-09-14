@@ -819,7 +819,7 @@ async function initQrCodes() {
   const targets = [
     {
       id: "qr-map",
-      url: "https://www.google.com/maps/search/?api=1&query=1140+Rue+Wellington+Unit+824+Montreal+Quebec+H3C+1V8",
+      url: "https://www.google.com/maps/search/?api=1&query=1140+Rue+Wellington+Montreal+Quebec+H3C+1V8",
     },
     {
       id: "qr-registry",
